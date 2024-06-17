@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "top-sentinel-426410-i8",
+  "private_key_id": "357620e8c4a292e10a6db3b6e3319ef9d2586d63",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCeBW13ocCahBLI\n1ws9jnhRD1D914cWDpWf9Ndmb2DdbuhzsJKdB4TbqPSlR74HLeeLgDlzYaPWoHa1\nTo+qSoPVG05sT7M6PaDbbrTTPnO2U4cLo/WS30V0qVDjUuTowxf79vwqPimNNXEm\nAXLUX6FSUX3FggkH2K3YO13lUGY9fyze8iDLQ3EwMKXYmuXPDSoeIBOJuDPHdEa7\nvam+HUwaXnnuFBZjQELDYbzaMcsYOfQr0fl2B20DA4dwWsG/tQlsYuxSNB8QcRs5\nfzH6C+Rd87clrnE9GGvMwJQ5saqby2mzjtUGKY+lZubnazpmFH1ntJQEL2FDpG6H\nqFIjoNiHAgMBAAECggEALT6Xl7vIBlXPfRLZZJAg0fDFO1EVHBMj8y8q52j3fp9N\nTiad6/klqLEpDxPKDIsvs0kM6gToYMEEDCiIyPTZ51AQtcFiK0hPANUjUCKfBfLH\nhWU2II3t+JesEdJ/uUd23A1dKQkwY36MPZoHk1goPAYaMU1ooYcAS5u/6DMLewq1\nlpzbUTLj8UqbliCxb8NGAzG0UepjcxVbqTSYvRJUjGBjYn3V358Fxrm+id2u+ZP2\n4yWjcnxr9zHPliQHkDkdVBJEgu6I+yOTcWOuOk5Cy4hk689PaOFk0tzY7S9OJg4U\nC18ESI9L4NCnhg/joRQDmrkeBH5woHT9motTYwecSQKBgQDcmOrVO0OkvCOK7tZw\nb1v59apG5yAhpBw60z2nS45cme0/jdeom6pSJtBnbjpwGKgp5N/qS3Ev+xA0o3JH\nxaB4u5G2HWY1hw8aq8oDwNl5Iq/zjBSAcFiqMVwiMMYWm2acs54zkPCpnlXYqlIw\n4apzNPR019NM6WA2Hyi3E6CoeQKBgQC3YZ1tmblDdrJ8D2kuOi9th9H7wzKLCLIE\ncBsUvXvLCCChNcUXJgd/Otgb3IClG/KC2UxTT3OSn9FzjrIIO8nSj/UQWEZi00/x\n39epPZcPcFif36PlmLKb0d9bLQlNG9VHAEQ9BofLrM/2FoYmSJM0VmqgQMGYA4Ds\nTutRAS9I/wKBgCrh/yScdLXdbPthGoaY30RkIUnPPEvN3z8AOYgABBi0Q46LQFUi\njaWSrgitQObxpB8gwvaE2+f74laZP2n8XQmbTOQeKvRU4PbKVmcMYjpOJ+4sWP/u\n1w2ess5itN9ILlZgBGz5zA7tHLsVwQyHkd77eFoOaqEU7QMYY43TXvPhAoGACC3P\nYrMHg03I+iWJ0GkB8oWrROpY18Ckh/QkERG+crjDE82dI8IrdW4/c0arajHL6DAe\n6lxR0ElWgyvrHtjj0INhL8BwKzo3h5cvPDomAadGHKNR4QylcrOynZNtpcXHBmqp\noHspFVl40QYCJ7T288+i49DfkZMebeu7LRq7bCsCgYEAtIcrRHImCoknVoQJsERi\n8OPaq9NeAJR/0gk65xb/Lx/YAsCOXorDT2UmkAERDFPciCrrCPekBVadLusJXqo7\nqVeJ5AMRio+cWXbgaqvUQ0VmeKyAGnXdvYM6/xLx5hXB8d+5NA6/fd//c5W3RSTV\n/lL4R+4uU44fgCOpeeqxnNg=\n-----END PRIVATE KEY-----\n",
+  "client_email": "gani-spotify@top-sentinel-426410-i8.iam.gserviceaccount.com",
+  "client_id": "117193084235991013964",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gani-spotify%40top-sentinel-426410-i8.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
