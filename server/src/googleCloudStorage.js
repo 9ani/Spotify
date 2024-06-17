@@ -1,4 +1,3 @@
-// src/googleCloudStorage.js
 
 const { Storage } = require('@google-cloud/storage');
 const path = require('path');
