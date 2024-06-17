@@ -12,7 +12,7 @@ const ArtistDetailPage = () => {
   useEffect(() => {
     const fetchArtist = async () => {
       try {
-        const res = await axios.get(`http://localhost:5000/api/v5/artists/${id}`);
+        const res = await axios.get(`https://spotify-7s22.onrender.com/api/v5/artists/${id}`);
         setArtist(res.data);
         setLoading(false);
       } catch (error) {

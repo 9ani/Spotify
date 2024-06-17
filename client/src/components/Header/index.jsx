@@ -1,4 +1,3 @@
-// src/components/Header/index.jsx
 import React, { useContext, useState } from "react";
 import {
   RiArrowLeftSLine,
@@ -14,7 +13,7 @@ const Header = ({ setShowSidebar }) => {
 
   const handleLogout = async () => {
     try {
-      const response = await fetch("http://localhost:5000/api/v5/auth/logout", {
+      const response = await fetch("https://spotify-7s22.onrender.com/api/v5/auth/logout", {
         method: "POST",
         headers: {
           Authorization: `Bearer ${localStorage.getItem("accessToken")}`,

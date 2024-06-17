@@ -11,7 +11,7 @@ export const Playlistsection = ({ title }) => {
   useEffect(() => {
     const fetchSongs = async () => {
       try {
-        const res = await axios.get('http://localhost:5000/api/v5/songs'); 
+        const res = await axios.get('https://spotify-7s22.onrender.com/api/v5/songs'); 
         setSongs(res.data);
       } catch (error) {
         console.error('Error fetching songs:', error);

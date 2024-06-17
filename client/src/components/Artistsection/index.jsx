@@ -11,7 +11,7 @@ export const Artistsection = ({ title }) => {
   useEffect(() => {
     const fetchArtists = async () => {
       try {
-        const res = await axios.get("http://localhost:5000/api/v5/artists");
+        const res = await axios.get("https://spotify-7s22.onrender.com/api/v5/artists");
         setArtists(res.data);
       } catch (error) {
         console.error("Error fetching artists:", error);

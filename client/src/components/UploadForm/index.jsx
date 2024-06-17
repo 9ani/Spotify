@@ -18,7 +18,7 @@ const UploadForm = () => {
     formData.append('image', image);
 
     try {
-      const res = await axios.post('http://localhost:5000/api/v5/songs', formData, {
+      const res = await axios.post('https://spotify-7s22.onrender.com/api/v5/songs', formData, {
         headers: { 'Content-Type': 'multipart/form-data' },
       });
       console.log(res.data);

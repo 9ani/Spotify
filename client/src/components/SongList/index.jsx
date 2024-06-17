@@ -8,7 +8,7 @@ const SongList = () => {
   useEffect(() => {
     const fetchSongs = async () => {
       try {
-        const res = await axios.get('http://localhost:5000/api/v5/songs');
+        const res = await axios.get('https://spotify-7s22.onrender.com/api/v5/songs');
         setSongs(res.data);
       } catch (err) {
         console.error(err);

@@ -1,7 +1,6 @@
-// src/App.js
 import React from "react";
-import { RouteList } from "./routes"; // Adjust the import if necessary
-import Header from "./components/Header"; // Adjust the path if necessary
+import { RouteList } from "./routes"; 
+import Header from "./components/Header";
 
 const App = () => {
   return (
